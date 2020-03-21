@@ -1,4 +1,4 @@
-# Predicting-Strategic-Behavior-from-Free-Text
+# Predicting Strategic Behavior from Free Text
 Omer Ben-Porat, Sharon Hirsch, Lital Kuchy, Guy Elad, Roi Reichart and Moshe Tennenholtz.
 
 ## Overview
