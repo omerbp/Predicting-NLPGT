@@ -24,7 +24,7 @@ After the paper was published, we discovered that texts 203 and 249 are not genu
 ## Citation
 If you make use of our data or code for research purposes, we would appreciate citing the following:
 ```
-@article{DBLP:journals/jair/Ben-PoratHKERT20,
+@article{OmerBPJair2020,
   author    = author={Ben{-}Porat, Omer and 
                       Hirsch, Sharon and 
                       Kuchi, Lital and 
